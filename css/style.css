@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+     font-family: 'Quicksand',sans-serif;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.jumbotron {
+    margin-top: 30px;
+    padding: 2rem 1rem;
+    text-align: center;
+}
+
+.product {
+    padding: 3%;
+}
+
+.product h3 {
+    text-align: center;
+    padding: 1%;
+}
+
+.judul{
+
+    font-family: 'Shippori Antique', sans-serif;
+    border-width: 3px;
+}
+
+.garis {
+    color: #32cd32;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.col-sm-12 {
+    text-align: center;
+    color: #f5f5f5;
+    background: rgba(6, 12, 34, 0.76);
+}
